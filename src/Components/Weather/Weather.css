@@ -1,0 +1,44 @@
+
+.wallpaper{
+    background-image: url("../../Images/cloudy.jpg");
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+     /* display: flex;  */
+    justify-content: center; 
+    align-items: center; 
+    /* width: 50vw;
+    height: 100vh;  */
+    background-color: #FF0000;
+    flex: 2;
+    /* margin: 0px 0px 0px 0px; */
+}
+.time{
+    font-size: 5vh;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue ;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.date{
+    font-size: 2vh;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue ;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.myInput{
+    font-size: 6vh;
+    text-align: center;
+    background-color: transparent;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-color: brown;
+    border-radius: 3vh;
+    color:darkorange;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.list{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:brown;
+    text-shadow: 4vh;
+    border-color: blue;
+    text-shadow: 0 0 3px #FF0000, 0 0 2px #0000FF;
+}
